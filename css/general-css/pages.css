@@ -460,7 +460,7 @@ input:-moz-placeholder {
     background-position: -5px -288px;
 }
 
-.sprite-ici-abc {
+.sprite-ico-abc {
     width: 26px;
     height: 26px;
     background-position: -434px -39px;
@@ -837,7 +837,7 @@ ul#header-nav-menu{
     text-transform: uppercase;
     color: #98aed7;
     font-size: 14px;
-    
+
 }
 
 /*//////////////////////////////////////////////////////////////////////////////*/
@@ -1082,7 +1082,7 @@ ul.icon-box{
 .block-linkbox li{
    list-style: disc;
    color: #8fa6d1;
-   
+
 
 }
 .h5-block-linkbox{
@@ -1674,9 +1674,9 @@ ul#footer-boxsoc-min{
 /*    отступы в блоке иконок между текстом и блоком иконки*/
     .t-wrap {
         padding: 0 6px 0 16px;
-        
+
     }
-    
+
 }
 
 /* Landscape tablets and medium desktops md */
@@ -1811,7 +1811,7 @@ ul#footer-boxsoc-min{
         width: 80%;
         margin-left: 15%;
     }
-    
+
     .h3-control{
         display: none;
     }
